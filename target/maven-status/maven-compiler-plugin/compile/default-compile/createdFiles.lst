@@ -1,0 +1,5 @@
+com\dd\testmvn\jenkins\eclipse\integrate\HomePage.class
+com\dd\testmvn\jenkins\eclipse\integrate\LoginPage.class
+com\dd\util\testUtil.class
+com\dd\testmvn\jenkins\eclipse\integrate\ContactsPage.class
+com\dd\libs\testLibs.class
